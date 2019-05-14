@@ -7,6 +7,10 @@ It is a simple mess management and room/apartment finding web app that has all t
 * Add new member (Mess manager/Hostel manager, Member)
 * Suggestions of empty mess/hostel seats based on user's location
 
+# Screenshots
+![](images/loginreg.png)
+![](images/menu.png)
+
 # Tools
 * PHP (No Framework)
 * HTML
