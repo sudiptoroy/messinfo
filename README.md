@@ -8,7 +8,10 @@ It is a simple mess management and room/apartment finding web app that has all t
 * Suggestions of empty mess/hostel seats based on user's location
 
 # Screenshots
+Login/Registration page
 ![](images/loginreg.png)
+
+Menu (View from a mess manager)
 ![](images/menu.png)
 
 # Tools
